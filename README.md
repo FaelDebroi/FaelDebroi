@@ -30,4 +30,3 @@ Prazer sou o FaelDebroi tenho 18 anos e sou Apaixonado por Programação!
   <a href = "https://mail.google.com/mail/u/?authuser=rafaeldebroi@gmail.com&?shva=1#contact/0123456789ABCDEF"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaeldebroi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <br><br>
-  ![Snake animation](https://github.com/FaelDebroi/FaelDebroi/blob/output/github-contribution-grid-snake.svg)
