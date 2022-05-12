@@ -1,7 +1,7 @@
 Opa Stacker, Tudo bem ?<br>
 Prazer sou o Fael Debroi tenho 19 anos e sou Apaixonado por Programação!
 
-- 💻 Tenho conhecimentos sobre Mobile / Front-and / Back-and / 
+- 💻 Tenho conhecimentos sobre Mobile / Front-and / Back-and  
 - 📚 Estou aprendendo React Native e Kotlin
 - 📫 Contato: rafaeldebroi@gmail.com / +55(19)98922-2780 ou +55(19)99231-3281 
 
