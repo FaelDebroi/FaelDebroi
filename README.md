@@ -3,8 +3,8 @@ Meu nome é Rafael Debroi, tenho 22 anos e sou estudante do 3º semestre no IFSP
 Além da tecnologia, sou apaixonado por esportes de luta e dedico parte do meu tempo livre ao muay thai e ao jiu-jitsu. Estou sempre em busca de aprendizado e desafios, tanto no âmbito profissional quanto pessoal!
 
 - 💻 Tenho conhecimentos sobre Mobile / Front-and / Back-and  
-- 📚 Estou aprendendo React Native e Kotlin
-- 📫 Contato: rafaeldebroi@gmail.com / +55(19)98922-2780 ou +55(19)99231-3281 
+- 📚 Estou aprendendo React e Kotlin
+- 📫 Contato: rafaeldebroi@gmail.com / +55(19)98922-2780  
 
 <div>
   <a href="https://github.com/FaelDebroi">
