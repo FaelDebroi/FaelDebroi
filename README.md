@@ -1,5 +1,6 @@
 Opa Stacker, Tudo bem ?<br>
-Prazer sou o Fael Debroi tenho 19 anos e sou Apaixonado por Programação!
+Olá, meu nome é Rafael Debroi, tenho 22 anos e sou estudante do 3º semestre no IFSP Campinas. Atualmente, trabalho como desenvolvedor Android e Android TV na Eitv, onde utilizo Java e Kotlin.
+Além da tecnologia, sou apaixonado por esportes de luta e dedico parte do meu tempo livre ao muay thai e ao jiu-jitsu. Estou sempre em busca de aprendizado e desafios, tanto no âmbito profissional quanto pessoal!
 
 - 💻 Tenho conhecimentos sobre Mobile / Front-and / Back-and  
 - 📚 Estou aprendendo React Native e Kotlin
