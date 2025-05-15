@@ -4,10 +4,6 @@ Tenho conhecimento no desenvolvimento de aplicativos Android (Mobile e TV), inte
 
 Participei de diferentes projetos, tanto pessoais quanto profissionais, aplicando metodologias ágeis como Scrum e Kanban, sempre com foco em qualidade, inovação e aprimoramento contínuo.
 
-- Estou aprendendo React e Flutter
-- Contato: rafaeldebroi@gmail.com
-- linkedin: https://www.linkedin.com/in/rafaeldebroi/
-  
 
 <div>
   <a href="https://github.com/FaelDebroi">
