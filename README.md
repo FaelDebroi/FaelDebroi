@@ -1,6 +1,8 @@
-Opa Stacker, Tudo bem ?<br>
-Meu nome é Rafael Debroi, tenho 22 anos e sou estudante do 3º semestre no IFSP Campinas. Atualmente, trabalho como desenvolvedor Android e Android TV na Eitv, onde utilizo Java e Kotlin.
-Além da tecnologia, sou apaixonado por esportes de luta e dedico parte do meu tempo livre ao muay thai e ao jiu-jitsu. Estou sempre em busca de aprendizado e desafios, tanto no âmbito profissional quanto pessoal!
+Eu sou desenvolvedor Android, Android TV e Backend com experiência na criação de aplicativos móveis (Android e TV, com foco em Java e Kotlin) e desenvolvimento de backend em PHP e SQL. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFSP Campinas. Também sou formado em Segurança da Informação na Anhanguera e nos cursos técnico de Desenvolvimento de Sistemas (SENAI Zerbini) e Design Gráfico (SAGA Campinas).
+
+Tenho conhecimento no desenvolvimento de aplicativos Android (Mobile e TV), integração de APIs, desenvolvimento de backend com PHP e SQL, além da submissão de apps para a Play Store, App Store e Smart TVs (Tizen/webOS). Atuo com controle de versão utilizando Git e integração de serviços em nuvem com Firebase (Realtime Database, Authentication, Push Notifications e Crashlytics).
+
+Participei de diferentes projetos, tanto pessoais quanto profissionais, aplicando metodologias ágeis como Scrum e Kanban, sempre com foco em qualidade, inovação e aprimoramento contínuo.
 
 - 💻 Tenho conhecimentos sobre Mobile / Front-and / Back-and  
 - 📚 Estou aprendendo React e Kotlin
