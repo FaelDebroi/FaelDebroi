@@ -1,8 +1,8 @@
-Eu sou desenvolvedor Android, Android TV e Backend com experiência na criação de aplicativos móveis (Android e TV, com foco em Java e Kotlin) e desenvolvimento de backend em PHP e SQL. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFSP Campinas. Também sou formado em Segurança da Informação na Anhanguera e nos cursos técnico de Desenvolvimento de Sistemas (SENAI Zerbini) e Design Gráfico (SAGA Campinas).
+I am an Android and Backend Developer with experience in creating mobile applications (Android Mobile and TV), focusing on Java and Kotlin, and backend development using PHP and SQL. I am currently pursuing a degree in Systems Analysis and Development at IFSP Campinas. I have also studied Information Security at Anhanguera and hold technical degrees in Systems Development (SENAI Zerbini) and Graphic Design (SAGA Campinas).
 
-Tenho conhecimento no desenvolvimento de aplicativos Android (Mobile e TV), integração de APIs, desenvolvimento de backend com PHP e SQL, além da submissão de apps para a Play Store, App Store e Smart TVs (Tizen/webOS). Atuo com controle de versão utilizando Git e integração de serviços em nuvem com Firebase (Realtime Database, Authentication, Push Notifications e Crashlytics).
+I have knowledge and hands-on experience in developing Android applications (Mobile and TV), API integration, backend development with PHP and SQL, and app deployment to the Play Store, App Store, and Smart TVs (Tizen/webOS). I work with version control using Git and cloud services integration with Firebase (Realtime Database, Authentication, and Crashlytics).
 
-Participei de diferentes projetos, tanto pessoais quanto profissionais, aplicando metodologias ágeis como Scrum e Kanban, sempre com foco em qualidade, inovação e aprimoramento contínuo.
+I have participated in various projects, both personal and professional, applying agile methodologies such as Scrum and Kanban, always with a strong focus on quality, innovation, and continuous improvement.
 
 
 <div>
