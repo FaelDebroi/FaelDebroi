@@ -1,17 +1,35 @@
-I am an Android and Backend Developer with experience in creating mobile applications (Android Mobile and TV), focusing on Java and Kotlin, and backend development using PHP and SQL. I am currently pursuing a degree in Systems Analysis and Development at IFSP Campinas. I have also studied Information Security at Anhanguera and hold technical degrees in Systems Development (SENAI Zerbini) and Graphic Design (SAGA Campinas).
+### 👋 Olá, eu sou o Rafael Debroi!
 
-I have knowledge and hands-on experience in developing Android applications (Mobile and TV), API integration, backend development with PHP and SQL, and app deployment to the Play Store, App Store, and Smart TVs (Tizen/webOS). I work with version control using Git and cloud services integration with Firebase (Realtime Database, Authentication, and Crashlytics).
+Desenvolvedor com experiência na criação de aplicações Android (Mobile e TV) nativas com Kotlin e Java, e no desenvolvimento de sistemas backend robustos com PHP e SQL. Apaixonado por tecnologia e por transformar ideias em soluções funcionais e inovadoras.
 
-I have participated in various projects, both personal and professional, applying agile methodologies such as Scrum and Kanban, always with a strong focus on quality, innovation, and continuous improvement.
+---
 
+### 🛠️ Habilidades & Ferramentas
+
+<div>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div>
   <a href="https://github.com/FaelDebroi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaelDebroi&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaelDebroi&layout=compact&langs_count=7&theme=cobalt"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaelDebroi&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaelDebroi&layout=compact&langs_count=7&theme=cobalt"/>
+  </a>
 </div>
-  <br><br>
-     <a href="https://www.instagram.com/fael_debroi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!--   <a href = "https://mail.google.com/mail/u/?authuser=rafaeldebroi@gmail.com&?shva=1#contact/0123456789ABCDEF"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.linkedin.com/in/rafaeldebroi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <br><br>
+
+---
+
+### 📫 Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/rafaeldebroi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/fael_debroi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
